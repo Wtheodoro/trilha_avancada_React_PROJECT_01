@@ -19,14 +19,14 @@ class CardTweets {
                   <span class="tweet-time">- ${params.data}</span>
                 </div>
                 <a>
-                  <img class="tweet-card-avatar" src="https://randomuser.me/api/portraits/men/20.jpg" alt="">
+                  <img class="tweet-card-avatar" src="${params.avatar}" alt="">
                 </a>
                 <div class="tweet-text">
-                  <p class="" lang="es" data-aria-label-part="0">${params.mensagem} <a href="https://t.co/dqg5hVQXA0"
+                  <p class="" lang="es" data-aria-label-part="0">${params.mensagem} <a href="${params.link}"
                       class="twitter-timeline-link" target="_blank"><span
-                        class="">https://www.mozilla-hispano.org/</span></a> <a href=""
-                      class="twitter-hashtag"><s>#</s><b>firefox</b></a> <a href=""
-                      class="twitter-hashtag"><s>#</s><b>comunidad</b></a>
+                        class="">Have some Fun!</span></a> <a href=""
+                      class="twitter-hashtag"><s>#</s><b>join</b></a> <a href=""
+                      class="twitter-hashtag"><s>#</s><b>noMusicNoLife</b></a>
                     <a href="" class="twitter-hashtag" dir="ltr"></a>
                   </p>
                 </div>

@@ -11,7 +11,7 @@ class CardFollowers {
             `
                 <li class="tweet-card">
                   <div class="tweet-content">
-                    <img class="tweet-card-avatar" src="https://randomuser.me/api/portraits/men/20.jpg" alt="">
+                    <img class="tweet-card-avatar" src="${params.avatar}" alt="">
                     <div class="tweet-header">
                       <span class="fullname">
                         <strong>${params.nome}</strong>

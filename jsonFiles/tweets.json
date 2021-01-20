@@ -1,0 +1,37 @@
+{
+  "tweets": [
+    {
+      "nome": "Oliver Sykes",
+      "usuario": "@osykes",
+      "avatar": "https://t3.gstatic.com/images?q=tbn:ANd9GcQEuHBw-_DGXjXPvSFxo_NSFRoU94hda-mkWR5UURZA9ANIm-w6m5dAA3gyMiov",
+      "data": "Ago 34",
+      "mensagem": "Tweet 1:  There's nothing to see here, it's under control we're only gambling with your soul Obey, whatever you do Just don't wake up and smell the corruption. Do you feel that? Yeah #BMTH #ERockNaVeia",
+      "link": "https://www.youtube.com/watch?v=AolstL1_MhE",
+      "comentarios": 7,
+      "compartilhamentos": 666,
+      "likes": 1122144
+    },
+    {
+      "nome": "Hayley Williams",
+      "usuario": "@haywil",
+      "avatar": "https://veja.abril.com.br/wp-content/uploads/2020/05/design-sem-nome.png",
+      "data": "Ago 32",
+      "mensagem": "Tweet 2:  I'm only human, I've got a skeleton in me, but I'm not the villain, despite what you're always preaching call me a traitor, I'm just collecting your victims they're getting stronger, I hear them calling #paramore #monster",
+      "link": "https://www.youtube.com/watch?v=PoTEnaAI9Fo",
+      "comentarios": 3.14,
+      "compartilhamentos": 1345,
+      "likes": 50000
+    },
+    {
+      "nome": "Chris Brown",
+      "usuario": "@chrisbrown",
+      "avatar": "https://diariodegoias.com.br/wp-content/uploads/2017/04/chrisbrown.jpg",
+      "data": "Ago 28 ",
+      "mensagem": "Tweet 3:  Girl you serious and I been watching you!",
+      "link": "https://www.youtube.com/watch?v=3yl-5FOZcr0",
+      "comentarios": 11,
+      "compartilhamentos": 25,
+      "likes": 2
+    }
+  ]
+}

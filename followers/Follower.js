@@ -2,6 +2,6 @@
 class Follower {
     // create method to find the followers
     searchFollower() {
-        return fetch("./follow.json")
+        return fetch("./jsonFiles/follow.json")
     }
 }

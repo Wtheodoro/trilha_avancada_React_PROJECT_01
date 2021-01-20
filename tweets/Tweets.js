@@ -2,6 +2,6 @@
 class Tweet {
     // create method to find the followers
     searchTweet() {
-        return fetch("./tweets.json")
+        return fetch("./jsonFiles/tweets.json")
     }
 }
