@@ -15,7 +15,7 @@ class CardFollowers {
                     <div class="tweet-header">
                       <span class="fullname">
                         <strong>${params.nome}</strong>
-                      </span>
+                      </span></br>
                       <span class="username">${params.usuario}</span>
                     </div>
 
