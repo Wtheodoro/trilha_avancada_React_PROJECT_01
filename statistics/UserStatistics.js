@@ -4,7 +4,6 @@ class UserStatistics {
     }
     showStatistics(params) {
         let cardStatistcs = ''
-        console.log(params[0].quantidade_tweets, params[0].seguidores)
     
         cardStatistcs += 
         `   <li>

@@ -22,6 +22,10 @@ body {
     font-size: 14px;
     font-weight: bold;
   }
+
+  .switch-theme {
+    color: #FFF !important;
+  }
   
   .input-search {
     font-size: 13px;
